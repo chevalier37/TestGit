@@ -6,7 +6,7 @@ public class ClassGit {
 		System.out.println("classe de");
 		System.out.println("classe dede");
 		System.out.println("classe dedede");
-		System.out.println("classe dededede");
+		System.out.println("classe dededed e");
 
 	}
 
